@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and tons of programming skills.
 - 💞️ I’m looking to collaborate on Unity and Unreal projects from indie games to AAA.
 - 📫 How to reach me:
-    - My website: andybastel.wordpress.com
+    - My website: https://www.andybastel.wordpress.com
     - My linkedIn: http://www.linkedin.com/in/andy-bastel
 
 <!---
